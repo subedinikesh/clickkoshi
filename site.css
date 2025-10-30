@@ -1,0 +1,12 @@
+.ck-logo {
+    display: block;
+    margin: auto;
+    justify-content: center;
+    text-align: center;
+    width: 20%;
+}
+
+h1 {
+    text-align: center;
+    font-size: 80px;
+}
